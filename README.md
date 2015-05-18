@@ -11,6 +11,7 @@ Solutions to problems posted at http://www.reddit.com/r/dailyprogrammer/
 
 #### Intermediate
 * [214 - Pile of Paper](http://www.reddit.com/r/dailyprogrammer/comments/35s2ds/20150513_challenge_214_intermediate_pile_of_paper/)
+* [195 - Math Dice](http://www.reddit.com/r/dailyprogrammer/comments/2qxrtk/20141231_challenge_195_intermediate_math_dice/)
 
 #### Hard
 * [214 - Chester, the greedy Pomeranian](http://www.reddit.com/r/dailyprogrammer/comments/3629st/20150515_challenge_214_hard_chester_the_greedy/)
