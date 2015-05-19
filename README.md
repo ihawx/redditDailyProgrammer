@@ -9,6 +9,7 @@ Solutions to problems posted at http://www.reddit.com/r/dailyprogrammer/
 * [214 - Calculating the standard deviation](http://www.reddit.com/r/dailyprogrammer/comments/35l5eo/20150511_challenge_214_easy_calculating_the/)
 * [212 - Rövarspråket](http://www.reddit.com/r/dailyprogrammer/comments/341c03/20150427_challenge_212_easy_r%C3%B6varspr%C3%A5ket/)
 * [199 - Bank Number Banners](http://www.reddit.com/r/dailyprogrammer/comments/2tr6yn/2015126_challenge_199_bank_number_banners_pt_1/)
+* [180 - Look'n'Say](http://www.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/)
 
 #### Intermediate
 * [214 - Pile of Paper](http://www.reddit.com/r/dailyprogrammer/comments/35s2ds/20150513_challenge_214_intermediate_pile_of_paper/)
