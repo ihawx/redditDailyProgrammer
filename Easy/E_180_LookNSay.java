@@ -1,6 +1,5 @@
 package dailyprogrammerreddit;
 
-import java.util.Collections;
 import java.util.Scanner;
 
 public class E_180_LookNSay {
@@ -8,9 +7,9 @@ public class E_180_LookNSay {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String text = in.nextLine();
-        int[] digits = Digits(Integer.parseInt(text));
+        int[] digits;
         for (int i = 0; i < 15; i++) {
-            digits = Digits(Integer.parseInt(text));
+            digits = Digits(text);
             Sort(digits);
             text = "";
             int actual = digits[0];
@@ -29,8 +28,7 @@ public class E_180_LookNSay {
         }
     }
 
-    public static int[] Digits(int input) {
-        String number = Integer.toString(input);
+    public static int[] Digits(String number) {
         int[] digs = new int[number.length()];
         for (int i = 0; i < digs.length; i++) {
             digs[i] = Integer.parseInt(Character.toString(number.charAt(i)));
