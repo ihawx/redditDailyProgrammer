@@ -12,6 +12,7 @@ Solutions to problems posted at http://www.reddit.com/r/dailyprogrammer/
 * [180 - Look'n'Say](http://www.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/)
 
 #### Intermediate
+* [215 - Validating sorting networks](http://www.reddit.com/r/dailyprogrammer/comments/36m83a/20150520_challenge_215_intermediate_validating/)
 * [214 - Pile of Paper](http://www.reddit.com/r/dailyprogrammer/comments/35s2ds/20150513_challenge_214_intermediate_pile_of_paper/)
 * [195 - Math Dice](http://www.reddit.com/r/dailyprogrammer/comments/2qxrtk/20141231_challenge_195_intermediate_math_dice/)
 
