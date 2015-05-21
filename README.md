@@ -10,6 +10,7 @@ Solutions to problems posted at http://www.reddit.com/r/dailyprogrammer/
 * [212 - Rövarspråket](http://www.reddit.com/r/dailyprogrammer/comments/341c03/20150427_challenge_212_easy_r%C3%B6varspr%C3%A5ket/)
 * [199 - Bank Number Banners](http://www.reddit.com/r/dailyprogrammer/comments/2tr6yn/2015126_challenge_199_bank_number_banners_pt_1/)
 * [180 - Look'n'Say](http://www.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/)
+* [79 - Counting in steps](http://www.reddit.com/r/dailyprogrammer/comments/wvc21/7182012_challenge_79_easy_counting_in_steps/)
 
 #### Intermediate
 * [215 - Validating sorting networks](http://www.reddit.com/r/dailyprogrammer/comments/36m83a/20150520_challenge_215_intermediate_validating/)
